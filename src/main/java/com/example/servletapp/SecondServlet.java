@@ -19,7 +19,6 @@ public class SecondServlet extends HttpServlet {
             writer.println("<br/><a href=\"first\">First Servlet</a>");
             writer.println("<br/><a href=\"Smth.html\">Go to Login</a>");
             writer.println("<br/><a href=\"Smth.html\">Go to Login</a>");
-            writer.println("<br/><a href=\"Smth.html\">Go to Login</a>");
 
         }
     }
